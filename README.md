@@ -1,5 +1,4 @@
 ## This code is created by Ali Eslamian  (2022)
-# aseslamian@gmail.com
 
 ## How to run the code ##
 1- you need to install ORB-SLAM3 on ubuntu (I highly recommend to install ubuntu 18.04):
