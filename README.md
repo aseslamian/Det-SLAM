@@ -1,5 +1,5 @@
 # Det-SLAM
-Det-SLAM is a visual SLAM system that is robust in dynamic scenarios for RGB-D inputs. Using Detctron2 for semantic segmentation and moving object detection.
+Det-SLAM is a visual SLAM system that is robust in dynamic scenarios for RGB-D inputs. It uses Detctron2 for semantic segmentation and moving object detection.
 
 ## How to run the code 
 1- you need to install ORB-SLAM3 on ubuntu (I highly recommend to install ubuntu 18.04):
