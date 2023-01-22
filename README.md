@@ -1,5 +1,4 @@
 # Det-SLAM
-# Det-SLAM
 Det-SLAM is a visual SLAM system that is robust in dynamic scenarios for RGB-D inputs. Using Detctron2 for semantic segmentation and moving object detection.
 
 ## How to run the code 
