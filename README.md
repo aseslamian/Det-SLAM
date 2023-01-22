@@ -17,7 +17,7 @@ Det-SLAM is a visual SLAM system that is robust in dynamic scenarios for RGB-D i
  
 4- Then, the code provide you a trajectory bag so, you can evaluate it with the groundthruth. To do this, you just need to run the python code in the "evaluation" folder.
 
-    "python evaluate_ate_scale.py --verbose --scale 1.2 <Groundtruth path> <your result path>"
+    python evaluate_ate_scale.py --verbose --scale 1.2 <Groundtruth path> <your result path>
      
  for instance:
         ```python evaluate_ate_scale.py --verbose --scale 1.2 /home/ali/Final/Det-SLAM/Results/f_w_static/groundtruth.txt /home/ali/Final/Det-SLAM/Results/f_w_static/f_w_static_test.txt ```
