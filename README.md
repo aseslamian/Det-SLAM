@@ -12,9 +12,8 @@ Det-SLAM is a visual SLAM system that is robust in dynamic scenarios for RGB-D i
    - I recommend to use Google Colab in order not to challenge with errors made of prequisites version.
    - after you install prequisites and Detectron2 you need to run it for the TUM datasets. if you use ggogle colab all the process will run automatically. you just need to open Colab and run!
 3- after you download processed dataset you need to run ORB-SLAM3 with the dataset by run command below: 
-  
-        ./Examples/Monocular/mono_tum Vocabulary/ORBvoc.txt Examples/Monocular/TUM1.yaml <the place of your dataset>
 
+  `./Examples/Monocular/mono_tum Vocabulary/ORBvoc.txt Examples/Monocular/TUM1.yaml <the place of your dataset>`
  
 4- Then, the code provide you a trajectory bag so, you can evaluate it with the groundthruth. To do this, you just need to run the python code in the "evaluation" folder.
 
