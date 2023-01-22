@@ -7,10 +7,12 @@ Det-SLAM is a visual SLAM system that is robust in dynamic scenarios for RGB-D i
   - second, you need to install Cmake (I recommend Cmake version 3.13.3 or lower. The newer version might not work for this code!)
   - Third, you need to creat a "build" file and install Orb-slam3. there are some nice sources that you can easily search for it.
   - for more information you can see "https://github.com/UZ-SLAMLab/ORB_SLAM3"
+  
 2- for the Detectron2 
    - you need to install some prequisites, please see "https://github.com/facebookresearch/detectron2"
    - I recommend to use Google Colab in order not to challenge with errors made of prequisites version.
    - after you install prequisites and Detectron2 you need to run it for the TUM datasets. if you use ggogle colab all the process will run automatically. you just need to open Colab and run!
+   
 3- after you download processed dataset you need to run ORB-SLAM3 with the dataset by run command below: 
 
 
