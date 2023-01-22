@@ -11,7 +11,7 @@ Det-SLAM which uses Detectron2 and ORB-SLAM3 as a visual SLAM systems to mitigat
 2- for the Detectron2 
    - you need to install some prequisites, please see "https://github.com/facebookresearch/detectron2"
    - I recommend to use Google Colab in order not to challenge with errors made of prequisites version.
-   - after you install prequisites and Detectron2 you need to run it for the TUM datasets. if you use ggogle colab all the process will run automatically. you just need to open Colab and run!
+   - after you install prequisites and Detectron2 you need to run it for the TUM datasets. if you use google colab all the process will run automatically. you just need to open Colab and run!
    
 3- after you download processed dataset you need to run ORB-SLAM3 with the dataset by run command below: 
 
