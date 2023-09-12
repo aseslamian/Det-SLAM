@@ -26,8 +26,6 @@ Det-SLAM which uses Detectron2 and ORB-SLAM3 as a visual SLAM systems to mitigat
  for instance:
         ```python evaluate_ate_scale.py --verbose --scale 1.2 /home/ali/Final/Det-SLAM/Results/f_w_static/groundtruth.txt /home/ali/Final/Det-SLAM/Results/f_w_static/f_w_static_test.txt ```
 
-The code results of the paper are provided. you can check it for practice!
-
 5- Also, you use online platform for evaluation:  " https://vision.in.tum.de/data/datasets/rgbd-dataset/online_evaluation "
       
 
